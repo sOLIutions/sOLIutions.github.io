@@ -6,4 +6,4 @@ title: Home
 <p>
 <h2><i>{{ site.insult }}</i></h2>
 
-<span style='font-size:100px;'>&#128586;</span>
+<span style='font-size:200px;'>&#128586;</span>
