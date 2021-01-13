@@ -9,7 +9,7 @@ title: Home
   </head>
   <body>
     <h1>{{ site.title }} :</h1>
-	</p>
+	<p>
 	<h2><i>{{ site.insult }}</i></h2>
   </body>
 </html>
